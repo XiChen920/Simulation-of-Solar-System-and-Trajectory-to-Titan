@@ -28,6 +28,6 @@ Switch between states
 
 Contributor
 ----------------------
-Noah Croes
-Xi Chen
-Giulia Ciattaglia
+- Noah Croes
+- Xi Chen
+- Giulia Ciattaglia
