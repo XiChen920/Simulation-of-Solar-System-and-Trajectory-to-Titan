@@ -25,3 +25,9 @@ In order to switch between the different solvers, use the following keys (this w
 
 Switch between states
 - "arrow up" to go to a different state (landerstate to modelingstate and vice versa)
+
+Contributor
+----------------------
+Noah Croes
+Xi Chen
+Giulia Ciattaglia
